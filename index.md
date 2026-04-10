@@ -10,6 +10,6 @@
 
 5. [`5-func-scope.py`](./notes/5.md)
 
-<!-- 6. [`6a-def-arg.py`](./notes/6.md)
+6. [`6a-def-arg.py`](./notes/6.md)
 
-10. [`10-classes.ipynb`](./notes/10.md) -->
+<!-- 10. [`10-classes.ipynb`](./notes/10.md) -->
